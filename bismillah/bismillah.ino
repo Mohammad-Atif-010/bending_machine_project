@@ -7,6 +7,8 @@
 unsigned int no_movement_time_period = 10000; // Milliseconds
 long int bending_start_time = 0;
 
+// Comment added by samad
+
 // Time limit between the start of bending and the end.
 #define TOTAL_BENDING_TIME_LIMIT 15000 // Milliseconds
 long int bending_start_timestamp = 0;
